@@ -1,4 +1,4 @@
-Final Project Embedded Course
+Arduino Project
 
-Swiss Web Academy Sibiu - 2020
+Obstacle avoiding robot on wheels
 
